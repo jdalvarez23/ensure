@@ -1,0 +1,58 @@
+#main-content {
+  width: 100% !important;
+  height: 100% !important;
+}
+
+.full {
+  width: 100% !important;
+  height: 100% !important;
+}
+.full-inner-html {
+  position: relative;
+  top: 20%;
+}
+.hide {
+  display: none !important;
+}
+
+.left-align {
+  text-align: left;
+}
+
+.right-align {
+  text-align: right;
+}
+
+.center, .center-align {
+  text-align: center;
+}
+
+.left {
+  float: left !important;
+}
+
+.right {
+  float: right !important;
+}
+
+#icon-image-inverted {
+  height: 30px;
+  margin-top: -4px;
+  border: 0px solid white;
+  display: block;
+}
+
+.btn-primary-invert {
+  color: #00a5b5;
+  border-color: #00a5b5;
+  background-color: #ffffff;
+}
+
+.btn-primary-invert:hover {
+  color: #00a5b5;
+  background-color: #e8e8e8;
+}
+
+.btn-primary-invert:active {
+  background-color: #d1d1d1;
+}
